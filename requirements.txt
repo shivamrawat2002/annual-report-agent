@@ -8,7 +8,7 @@ lxml==6.0.0
 chromadb==1.0.16
 tiktoken==0.11.0
 langchain-groq==0.0.1
-langchain-core==0.1.0
+langchain-core==0.3.81
 langchain-community==0.0.10
 langchain-google-genai==0.0.5
 pydantic==2.5.0
